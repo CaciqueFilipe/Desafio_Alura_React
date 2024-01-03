@@ -18,15 +18,5 @@
 
 <hr/>
 
-# Para Rodar
-
-```
-npm install
-```
-
-```
-npm serve
-```
-
 #### Author: Filipe Cacique
 #### Email: felipe.cacique@hotmail.com
